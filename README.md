@@ -1,2 +1,3 @@
 # cpp-seminars
-Tutor's (who is me) notes on C++ seminars
+
+Года и потоки распределены по веткам. Чтобы увидеть конспекты, переключитесь с `main` на `<year_begin>-<year_end>-<division>`
